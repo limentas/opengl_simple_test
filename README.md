@@ -1,1 +1,1 @@
-# opengl_simple_test
+This is simple OpenGL example using Win32 API. Based on the animate example from https://www.opengl.org/archives/resources/code/samples/win32_tutorial/
